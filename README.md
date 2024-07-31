@@ -20,9 +20,4 @@ Welcome to the **Tkinter Calculator** project! This is a straightforward yet ful
 
 ## Installation
 
-Follow these simple steps to get your Tkinter Calculator up and running:
-
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/your-username/tkinter-calculator.git
+ - Clone the repository and run the code , don't need to install any external file or package.
