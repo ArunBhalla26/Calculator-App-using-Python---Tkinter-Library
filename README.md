@@ -12,9 +12,11 @@ Welcome to the **Tkinter Calculator** project! This is a straightforward yet ful
 
 ## Screenshots/Videos 
 
-**Calculator: ** ![Annotation 2024-07-31 231414](https://github.com/user-attachments/assets/b28c6078-3076-4240-8790-b13b89087e3b)
+**Calculator: ** 
+![Annotation 2024-07-31 231414](https://github.com/user-attachments/assets/b28c6078-3076-4240-8790-b13b89087e3b)
 
-** Video : ** https://github.com/user-attachments/assets/1e29b209-6084-43fb-ae04-8146b43f5796
+** Video : **
+https://github.com/user-attachments/assets/1e29b209-6084-43fb-ae04-8146b43f5796
 
 
 
